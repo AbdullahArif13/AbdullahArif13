@@ -6,14 +6,14 @@ I enjoy turning complex problems into simple, elegant solutions, while continuou
 </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abdullaharifi13&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaharifi13" /> 
+  <img src="https://komarev.com/ghpvc/?username=abdullaharifi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaharifi" /> 
 </p>
 
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullaharifi13&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullaharifi&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
 
 ---
@@ -56,13 +56,13 @@ I enjoy turning complex problems into simple, elegant solutions, while continuou
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaharifi13&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaharifi&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullaharifi13&show_icons=true&locale=en&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullaharifi&show_icons=true&locale=en&theme=radical" alt="github-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaharifi13&theme=radical" alt="github-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaharifi&theme=radical" alt="github-streak" />
 </p>
