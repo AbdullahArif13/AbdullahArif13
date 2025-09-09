@@ -1,3 +1,8 @@
+<!-- Shinchan Animation -->
+<p align="center">
+  <img src="https://media.tenor.com/WvTOavS6vK4AAAAi/shinchan-dance.gif" alt="shinchan" width="200" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">
 I’m a passionate Frontend Developer from Indonesia who loves transforming ideas into interactive and user-friendly web applications. 
@@ -5,14 +10,8 @@ Currently, I’m deepening my skills in <b>React.js</b> and <b>TypeScript</b>, f
 I enjoy turning complex problems into simple, elegant solutions, while continuously learning and exploring new technologies to grow as a developer.
 </h3>
 
-<!-- Animasi Shinchan -->
-<p align="center">
-  <img src="https://media.tenor.com/9mEq7P2uWlAAAAAi/shinchan-dance.gif" alt="shinchan" width="200" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70081&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%26+TypeScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abdullaharifi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaharifi" /> 
 </p>
 
 ---
